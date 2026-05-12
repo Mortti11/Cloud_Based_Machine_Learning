@@ -211,3 +211,18 @@ __marimo__/
 .streamlit/secrets.toml
 
 
+# Large binary files (model weights, checkpoints, temp tensors) — too large for git
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.h5
+*.hdf5
+*.onnx
+*.pkl
+*.weights
+*.bin
+*.tflite
+
+# Local model cache / temp tensor dumps at repo root
+/models/
