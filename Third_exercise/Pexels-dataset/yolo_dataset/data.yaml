@@ -1,0 +1,7 @@
+path: D:\ML_DE\Cloud_Based_Machine_Learning\Third_exercise\Pexels-dataset\yolo_dataset
+train: images/train
+val: images/val
+names:
+  0: bicycle
+  1: laptop
+  2: pizza
