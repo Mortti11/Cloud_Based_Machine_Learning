@@ -226,3 +226,34 @@ __marimo__/
 
 # Local model cache / temp tensor dumps at repo root
 /models/
+
+# Assignment datasets, generated outputs, screenshots, and documents
+First_exercise/pexels_dataset/
+First_exercise/Split-data/
+First_exercise/Saved-model/
+First_exercise/Screenshots/
+Second_exercise/BUSBRA/
+Second_exercise/Screenshots/
+Third_exercise/Pexels-dataset/
+Third_exercise/runs/
+FourthA_exercise/notebook_output_screenshots/
+FourthB_exercise/DeOldify/
+FourthB_exercise/colorized_images/
+FourthB_exercise/input_images/
+FourthB_exercise/notebook_output_screenshots/
+FourthB_exercise/result_images/
+FourthC_exercise/generated_images/
+FourthC_exercise/upscaled_images/
+FourthD_exercise/LearningToPaint/
+FourthD_exercise/runs/
+FourthD_exercise/notebook_output_screenshots/
+**/Screenshots/
+**/*Screenshots*/
+**/*screenshots*/
+*.doc
+*.docx
+*.docm
+*.dot
+*.dotx
+*.dotm
+~$*.doc*
